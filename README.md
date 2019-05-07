@@ -22,23 +22,37 @@ As a _builder_, you use the Azure IoT Central UI to define your Microsoft Azure 
 
 Navigate to the Azure IoT Central [Application Manager](https://aka.ms/iotcentral) page. You will need to sign in with a Microsoft personal or work or school account.
 
+Check to see if you are signed in to the right Microsoft account. At the Build event, we have made a lab account which will be shown on the Lab's monitor with the password.
+
 To start creating a new Azure IoT Central application, select **New Application**. This takes you to the **Create Application** page.
 
-![Azure IoT Central Create Application page](media/quick-deploy-iot-central/iotcentralcreate.png)
+![Azure IoT Central Create Application page](media/quick-deploy-iot-central/iot-central.png)
 
 To create a new Azure IoT Central application:
 
-1. Choose the **Trail** payment plan:
-   - **Trial** applications are free for 7 days before they expire. They can be converted to Pay-As-You-Go at any time before they expire.
+1. Choose the **Pay As You Go** payment plan:
+  
    - **Pay-As-You-Go** applications are charged per device, with the first 5 devices free.
+   
+   - **Trial** applications are free for 7 days before they expire. They can be converted to Pay-As-You-Go at any time before they expire. For this lab, we will be not using the trial.
+   
+ ![Azure IoT Central Payment Plan](media/quick-deploy-iot-central/pay-as-you-go.png)
 
      Learn more about pricing on the [Azure IoT Central pricing page](https://azure.microsoft.com/pricing/details/iot-central/).
 
-1. Choose a friendly application name, such as **Contoso IoT**. Azure IoT Central generates a unique URL prefix for you. You can change this URL prefix to something more memorable.
+2. Choose the **Sample Devkits** application template.
 
-1. Choose the **Sample Devkits** application template.
+ ![Azure IoT Central Template](media/quick-deploy-iot-central/sample-dev-kit.png)
 
-1. Select **Create**.
+
+3. Choose a friendly application name, such as **Contoso IoT**. Azure IoT Central generates a unique URL prefix for you. You can change this URL prefix to something more memorable.
+
+
+4. Under **Directory** in the Billing Information selection, Select **Microsoft**. 
+
+5. Select the available Subscription listed.
+
+5. Select **Create**.
 
 ## Next steps
 
