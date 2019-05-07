@@ -39,8 +39,7 @@ To create a new Azure IoT Central application:
    
  ![Azure IoT Central Payment Plan](media/quick-deploy-iot-central/pay-as-you-go.PNG)
  
-
-     Learn more about pricing on the [Azure IoT Central pricing page](https://azure.microsoft.com/pricing/details/iot-central/).
+Learn more about pricing on the [Azure IoT Central pricing page](https://azure.microsoft.com/pricing/details/iot-central/).
 
 2. Choose the **Sample Devkits** application template.
 
