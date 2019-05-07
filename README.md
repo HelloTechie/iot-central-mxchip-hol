@@ -26,7 +26,7 @@ Check to see if you are signed in to the right Microsoft account. At the Build e
 
 To start creating a new Azure IoT Central application, select **New Application**. This takes you to the **Create Application** page.
 
-![Azure IoT Central Create Application page](media/quick-deploy-iot-central/iot-central.png)
+![Azure IoT Central Create Application page](media/quick-deploy-iot-central/iot-central.PNG)
 
 To create a new Azure IoT Central application:
 
@@ -36,13 +36,16 @@ To create a new Azure IoT Central application:
    
    - **Trial** applications are free for 7 days before they expire. They can be converted to Pay-As-You-Go at any time before they expire. For this lab, we will be not using the trial.
    
- ![Azure IoT Central Payment Plan](media/quick-deploy-iot-central/pay-as-you-go.png)
+   
+ ![Azure IoT Central Payment Plan](media/quick-deploy-iot-central/pay-as-you-go.PNG)
+ 
 
      Learn more about pricing on the [Azure IoT Central pricing page](https://azure.microsoft.com/pricing/details/iot-central/).
 
 2. Choose the **Sample Devkits** application template.
 
- ![Azure IoT Central Template](media/quick-deploy-iot-central/sample-dev-kit.png)
+
+ ![Azure IoT Central Template](media/quick-deploy-iot-central/sample-dev-kit.PNG)
 
 
 3. Choose a friendly application name, such as **Contoso IoT**. Azure IoT Central generates a unique URL prefix for you. You can change this URL prefix to something more memorable.
